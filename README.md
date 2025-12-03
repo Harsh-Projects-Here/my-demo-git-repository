@@ -1,4 +1,4 @@
 # my-demo-git-repository
 This is my demo repository 
 <br>
-Author - <strong>Harsh Jha</strong>
+Author - <mark><strong>Harsh Jha</mark></strong>
